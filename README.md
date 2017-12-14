@@ -1,4 +1,4 @@
-#My solutions for the [Rosalind](http://rosalind.info/problems/list-view/) problems, written in Python 3.4.
+# My solutions for the [Rosalind](http://rosalind.info/problems/list-view/) problems, written in Python 3.4.
 
 I tried to make each file compact and standalone. 
 
